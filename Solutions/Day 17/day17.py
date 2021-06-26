@@ -32,7 +32,7 @@ fill(jars, 150, [], combos)
 
 #print(set(combos))
 cm = list(set(combos))
-print(cm)
+#print(cm)
 
 smallest = 999
 for c in cm:
